@@ -62,7 +62,7 @@ Em outras palavras, um **CRUD completo (Create, Read, Update, Delete)**.
 
 ```
 forumhub/
- ├── src/main/java/br/com/soupaulodev/forumhub
+ ├── src/main/java/br/com/yarazip/forumhub
  │   ├── controllers/      # Controladores REST
  │   ├── dtos/             # Objetos de transferência de dados
  │   ├── models/           # Entidades JPA
