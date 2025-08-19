@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: forumhub
+  profiles:
+    active: dev
+springdoc:
+  swagger-ui:
+    groups-order: asc
+    tags-sorter: alpha
